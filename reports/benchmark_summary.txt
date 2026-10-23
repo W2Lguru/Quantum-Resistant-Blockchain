@@ -1,0 +1,7 @@
+Benchmark summary for the educational quantum-resistant blockchain.
+These conclusions are based only on measurements collected in this experiment.
+
+On the tested environment, ML-DSA had lower average signing time (ECDSA 0.3204 ms vs ML-DSA 0.2035 ms).
+ML-DSA provided post-quantum security properties but produced larger signatures than ECDSA in this experiment (2420 bytes vs 72 bytes).
+Security properties and performance properties are distinct: a faster scheme is not automatically more secure.
+Do not generalize one machine's timings to all platforms or all parameter sets.

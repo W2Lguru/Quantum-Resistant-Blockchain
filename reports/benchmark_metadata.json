@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-10-21T06:52:34",
+  "python_version": "3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)]",
+  "operating_system": "Windows 11 AMD64",
+  "cryptography_version": "50.0.1",
+  "liboqs_python_version": "0.16.0",
+  "liboqs_version": "0.16.0",
+  "ml_dsa_variant": "ML-DSA-44",
+  "crypto_iterations": 100,
+  "note": "Results are specific to this machine and environment."
+}
